@@ -1,0 +1,4 @@
+Grok mark from Lobe Icons: https://github.com/lobehub/lobe-icons
+Source: https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/grok.svg
+Distributed under the MIT license, see LOBE-ICONS-LICENSE.txt.
+Grok is a trademark of xAI.

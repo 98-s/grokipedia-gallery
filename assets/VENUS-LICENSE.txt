@@ -1,0 +1,9 @@
+Venus de Milo — Scan the World / Jonathan Beck, 2014
+Source: https://commons.wikimedia.org/wiki/File:Scan_the_World_-_Venus_de_Milo.stl
+Original STL: https://upload.wikimedia.org/wikipedia/commons/0/09/Scan_the_World_-_Venus_de_Milo.stl
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Adaptation: rigid orientation and normalization, a connected reconstructed inscribed plinth, UVs, and web binary conversion. The original facial and drapery surface detail is preserved. The adapted mesh venus-sculpture.bin is distributed under the same CC BY-SA 4.0 license.
+
+The base inscription is a reconstruction inspired by the historically recorded lost plinth and is not part of the supplied scan.
