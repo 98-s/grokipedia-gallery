@@ -1,16 +1,22 @@
 # Grokipedia Gallery
 
-A static 3D artifact gallery prepared for GitHub Pages. It uses Three.js modules and local model/image assets; there is no build step or server-side service.
+Explore six artifacts through interactive 3D models, from the Rosetta Stone to *The Ninth Wave*. Each object includes short historical notes and details you can inspect up close.
 
-## Publish with GitHub Pages
+[Open the live gallery](https://98-s.github.io/grokipedia-gallery/)
 
-1. Create a GitHub repository and upload the contents of this folder so `index.html` is at the repository root.
-2. In the repository, open **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/(root)`, then save.
-4. Wait for the Pages deployment. GitHub will show the site URL in the Pages settings.
+## Explore
 
-Open the deployed site over its `https://` URL. Opening `index.html` directly as a `file://` URL may block its JavaScript modules.
+Choose an artifact from **Grokipedia Gallery** in the upper corner. Drag to orbit around a model, scroll to zoom, or use **Reset view** to return to the starting angle. Select the glowing markers to read details about specific features; close a note with its **×** button.
 
-## Visibility
+The Raptor 3 model has an ignition animation. The Wright Flyer stays in place with airflow effects. The Rosetta Stone and Venus de Milo include subtle reconstructions at selected broken areas.
 
-A public repository and its GitHub Pages site can be viewed by anyone. GitHub Pages sites are publicly accessible even when built from a private repository, subject to the account plan and access-control options. Check repository and Pages visibility before publishing.
+## The collection
+
+- **Rosetta Stone** — a trilingual inscription that helped unlock Egyptian hieroglyphs.
+- **Raptor 3** — SpaceX’s methalox rocket engine, designed for Starship.
+- **Venus de Milo** — a Hellenistic sculpture of Aphrodite.
+- **Wright Flyer** — the Wright brothers’ first powered, controlled airplane.
+- **Gutenberg Bible** — an early landmark of European movable-type printing.
+- **The Ninth Wave** — Ivan Aivazovsky’s 1850 painting of shipwreck survivors at dawn.
+
+The 3D gallery requires a browser with WebGL enabled.
